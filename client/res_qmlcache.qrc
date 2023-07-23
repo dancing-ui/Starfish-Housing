@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="Image/account.svg">Image/account.svg</file>
+        <file alias="Image/back.svg">Image/back.svg</file>
+        <file alias="Image/close.svg">Image/close.svg</file>
+        <file alias="Image/find.svg">Image/find.svg</file>
+        <file alias="Image/house.svg">Image/house.svg</file>
+        <file alias="Image/journey.png">Image/journey.png</file>
+        <file alias="Image/login.svg">Image/login.svg</file>
+        <file alias="Image/magnify.svg">Image/magnify.svg</file>
+        <file alias="Image/mistake.svg">Image/mistake.svg</file>
+        <file alias="Image/normal.svg">Image/normal.svg</file>
+        <file alias="Image/passnotvisible.svg">Image/passnotvisible.svg</file>
+        <file alias="Image/passvisible.svg">Image/passvisible.svg</file>
+        <file alias="Image/send.svg">Image/send.svg</file>
+        <file alias="Image/settings.svg">Image/settings.svg</file>
+        <file alias="Image/shrink.svg">Image/shrink.svg</file>
+        <file alias="Image/signup.svg">Image/signup.svg</file>
+        <file alias="house/one.png">house/one.png</file>
+        <file alias="house/three.png">house/three.png</file>
+        <file alias="house/two.png">house/two.png</file>
+        <file alias="Image/house4.svg">Image/house4.svg</file>
+        <file alias="Image/house2.svg">Image/house2.svg</file>
+        <file alias="Image/house3.svg">Image/house3.svg</file>
+        <file alias="Image/house1.svg">Image/house1.svg</file>
+        <file alias="Image/plot.svg">Image/plot.svg</file>
+        <file alias="Image/fitment.svg">Image/fitment.svg</file>
+        <file alias="Image/house_type.svg">Image/house_type.svg</file>
+        <file alias="Image/agent.svg">Image/agent.svg</file>
+        <file alias="Image/market.svg">Image/market.svg</file>
+        <file alias="Image/calculater.svg">Image/calculater.svg</file>
+        <file alias="Image/map.svg">Image/map.svg</file>
+        <file alias="Image/live.svg">Image/live.svg</file>
+        <file alias="Image/main_page.svg">Image/main_page.svg</file>
+        <file alias="Image/head.svg">Image/head.svg</file>
+        <file alias="Image/usersetting.svg">Image/usersetting.svg</file>
+        <file alias="Image/background.jpg">Image/background.jpg</file>
+        <file alias="Image/buyhouse.svg">Image/buyhouse.svg</file>
+        <file alias="Image/error.svg">Image/error.svg</file>
+        <file alias="Image/thanks.svg">Image/thanks.svg</file>
+        <file alias="Image/housePre.svg">Image/housePre.svg</file>
+        <file alias="html/myMap.html">html/myMap.html</file>
+    </qresource>
+</RCC>

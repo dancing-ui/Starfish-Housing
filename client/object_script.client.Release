@@ -1,0 +1,14 @@
+release/carouselimagewindow.o
+release/clientpage.o
+release/customtoolbutton.o
+release/database.o
+release/main.o
+release/initpage.o
+release/managerpage.o
+release/qrc_res.o
+release/moc_carouselimagewindow.o
+release/moc_clientpage.o
+release/moc_customtoolbutton.o
+release/moc_database.o
+release/moc_initpage.o
+release/moc_managerpage.o

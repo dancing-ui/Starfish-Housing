@@ -1,0 +1,14 @@
+debug/carouselimagewindow.o
+debug/clientpage.o
+debug/customtoolbutton.o
+debug/database.o
+debug/main.o
+debug/initpage.o
+debug/managerpage.o
+debug/qrc_res.o
+debug/moc_carouselimagewindow.o
+debug/moc_clientpage.o
+debug/moc_customtoolbutton.o
+debug/moc_database.o
+debug/moc_initpage.o
+debug/moc_managerpage.o

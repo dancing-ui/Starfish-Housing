@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{addToolbar, backbone, jquery-1.11.1, main1119, prety-json, underscore}" />
+  </component>
+</project>
